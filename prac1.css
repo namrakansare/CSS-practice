@@ -1,0 +1,33 @@
+body{
+    background-image: url("dummy.jfif");
+    background-color: #add8e6;
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+h1{
+    color: white;
+    margin-left: 200px;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: red;
+}
+#para1{
+    color: purple;
+    text-align: center;
+}
+p.center{
+    text-align: center;
+    color: red;
+}
+p.large{
+    font-size: 300%;
+}
+.first{
+    opacity: 0.5;
+}
+.second{
+    opacity: 0.75;
+}
