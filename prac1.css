@@ -31,3 +31,16 @@ p.large{
 .second{
     opacity: 0.75;
 }
+p.dotted{
+    border-style: dotted;
+    border-width: 5px;
+    border-color:green;
+}
+.dashed{
+    border-style: dashed;
+}
+.ridge{
+    border-style: ridge;
+    border-color: blueviolet;
+    border-radius: 20px;
+}
